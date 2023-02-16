@@ -1,0 +1,48 @@
+body{
+	background-image: linear-gradient(#FAF7F0,#E1EEDD);
+    
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+*{
+	margin: 0px; padding: 0px; font-family: 'Prompt', sans-serif;
+}
+
+.profile{
+	height: 250px;
+	width: 250px;
+	margin: 0 auto;
+	border-radius: 50%;
+	text-align: center;
+	margin-top: 100px;
+
+}
+.profile img{
+	width: 100%;
+	border-radius: 50%;
+}
+.University{
+    margin: 0 auto;
+    position: relative;
+	text-align: center;
+}
+h1,h2,h3{
+    margin: 0 auto 0 auto;
+}
+hr{
+	
+	border-style: none;
+	border-top-style: dotted;
+	border-color: rgb(58, 55, 55);
+	border-width:3px;
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+  }
+  .main{
+	margin: auto;
+	width: 80%;
+  }
+
+
+
